@@ -1,0 +1,225 @@
+GEDUNG A
+
+1. Prodi Matematika
+a. Setting server
+- Ip Configuration
+Ip Address 192.168.9.2
+Gateway 192.168.9.1
+- DHCP
+Default Gateway 192.168.9.1
+DNS Server 192.168.9.2
+Start IP Address 192.168.9.3
+Save
+- DNS
+Name : matematikauns.com
+Address : 192.168.9.2
+Add
+
+b Setting Wireless
+- Ruang Admin Matematika
+Port 1
+SSID : Ruang Administrasi Matematika
+WPA2-PSK : adminmatematikamipauns
+
+Ruang lainnya di set sama tinggal diganti nama ruangnya (Cek yang di gedung B)
+
+c Setting Laptop
+IP Configurationnya di set DHCP
+Connect-kan ke masing2 Access Point sesuai namanya
+
+2. Prodi Statistika
+a. Setting server
+- Ip Configuration
+Ip Address 192.168.10.2
+Gateway 192.168.10.1
+- DHCP
+Default Gateway 192.168.10.1
+DNS Server 192.168.10.2
+Start IP Address 192.168.10.3
+Save
+- DNS
+Name : matematikauns.com
+Address : 192.168.9.2
+Add
+
+Name : statistikauns.com
+Address : 192.168.10.2
+Add
+
+b Setting Wireless
+- Ruang Admin Statistika
+Port 1
+SSID : Ruang Administrasi Statistika
+WPA2-PSK : adminstatistikamipauns
+
+Ruang lainnya di set sama tinggal diganti nama ruangnya (Cek yang di gedung B)
+
+c Setting Laptop
+IP Configurationnya di set DHCP
+Connect-kan ke masing2 Access Point sesuai namanya
+
+3. Prodi D-3 TI
+a. Setting server
+- Ip Configuration
+Ip Address 192.168.11.2
+Gateway 192.168.11.1
+- DHCP
+Default Gateway 192.168.11.1
+DNS Server 192.168.11.2
+Start IP Address 192.168.11.3
+Save
+- DNS
+Name : matematikauns.com
+Address : 192.168.9.2
+Add
+
+Name : statistikauns.com
+Address : 192.168.10.2
+Add
+
+Name : d-3tiuns.com
+Address : 192.168.11.2
+Add
+
+b Setting Wireless
+- Ruang Admin D-3 TI
+Port 1
+SSID : Ruang Administrasi D-3 TI
+WPA2-PSK : admind-3timipauns
+
+Ruang lainnya di set sama tinggal diganti nama ruangnya (Cek yang di gedung B)
+
+c Setting Laptop
+IP Configurationnya di set DHCP
+Connect-kan ke masing2 Access Point sesuai namanya
+
+4. Farmasi
+a. Setting server
+- Ip Configuration
+Ip Address 192.168.12.2
+Gateway 192.168.12.1
+- DHCP
+Default Gateway 192.168.12.1
+DNS Server 192.168.12.2
+Start IP Address 192.168.12.3
+Save
+- DNS
+Name : matematikauns.com
+Address : 192.168.9.2
+Add
+
+Name : statistikauns.com
+Address : 192.168.10.2
+Add
+
+Name : d-3tiuns.com
+Address : 192.168.11.2
+Add
+
+Name : farmasiuns.com
+Address : 192.168.12.2
+Add
+
+b Setting Wireless
+- Ruang Admin Farmasi
+Port 1
+SSID : Ruang Administrasi Farmasi
+WPA2-PSK : adminfarmasimipauns
+
+Ruang lainnya di set sama tinggal diganti nama ruangnya (Cek yang di gedung B)
+
+c Setting Laptop
+IP Configurationnya di set DHCP
+Connect-kan ke masing2 Access Point sesuai namanya
+
+GEDUNG C
+
+1. Biologi
+a. Setting server
+- Ip Configuration
+Ip Address 192.168.14.2
+Gateway 192.168.14.1
+- DHCP
+Default Gateway 192.168.14.1
+DNS Server 192.168.14.2
+Start IP Address 192.168.14.3
+Save
+- DNS
+Name : matematikauns.com
+Address : 192.168.9.2
+Add
+
+Name : statistikauns.com
+Address : 192.168.10.2
+Add
+
+Name : d-3tiuns.com
+Address : 192.168.11.2
+Add
+
+Name : farmasiuns.com
+Address : 192.168.12.2
+Add
+
+Name : biologiuns.com
+Address : 192.168.14.2
+Add
+
+b Setting Wireless
+- Ruang Admin Biologi
+Port 1
+SSID : Ruang Administrasi Biologi
+WPA2-PSK : adminbiologimipauns
+
+Ruang lainnya di set sama tinggal diganti nama ruangnya (Cek yang di gedung B)
+
+c Setting Laptop
+IP Configurationnya di set DHCP
+Connect-kan ke masing2 Access Point sesuai namanya
+
+2. Ilmu Lingkungan
+a. Setting server
+- Ip Configuration
+Ip Address 192.168.15.2
+Gateway 192.168.15.1
+- DHCP
+Default Gateway 192.168.15.1
+DNS Server 192.168.15.2
+Start IP Address 192.168.15.3
+Save
+- DNS
+Name : matematikauns.com
+Address : 192.168.9.2
+Add
+
+Name : statistikauns.com
+Address : 192.168.10.2
+Add
+
+Name : d-3tiuns.com
+Address : 192.168.11.2
+Add
+
+Name : farmasiuns.com
+Address : 192.168.12.2
+Add
+
+Name : biologiuns.com
+Address : 192.168.14.2
+Add
+
+Name : ilmulingkunganuns.com
+Address : 192.168.15.2
+Add
+
+b Setting Wireless
+- Ruang Admin Ilmu Lingkungan
+Port 1
+SSID : Ruang Administrasi Ilmu Lingkungan
+WPA2-PSK : adminilmulingkunganmipauns
+
+Ruang lainnya di set sama tinggal diganti nama ruangnya (Cek yang di gedung B)
+
+c Setting Laptop
+IP Configurationnya di set DHCP
+Connect-kan ke masing2 Access Point sesuai namanya
